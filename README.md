@@ -2,7 +2,7 @@
 
 In the tutorial you just watched, you created a button and counted the clicks on that button. In this project, you will create 2 buttons, one that increments a counter and one that decrements the same counter. The result looks like this:
 
-![clickCounter.PNG](https://github.com/bell-kevin/clickCounter/blob/main/react.PNG)
+![clickCounter.PNG](https://github.com/bell-kevin/clickCounter/blob/main/not%20all%20the%20files%20are%20here/react.PNG)
 
 Use an h1 tag for the heading "Click Counter". Create a component for the buttons and the number between. That component handles the onClick event listeners for the buttons, and uses state to handle the value of the counter. Use an external style sheet for that component to (1) add color to the buttons (you can choose any colors you want, make sure the symbols are visible), (2) make the buttons the same size and with border radius to round the corners, (3) add margin space on the left and right of the counter value.
 
