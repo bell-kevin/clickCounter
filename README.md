@@ -1,5 +1,7 @@
 # Click Counter
 
+https://piped.hostux.net/watch?v=ABQLwlE8MUA
+
 In the tutorial you just watched, you created a button and counted the clicks on that button. In this project, you will create 2 buttons, one that increments a counter and one that decrements the same counter. The result looks like this:
 
 ![clickCounter.PNG](https://github.com/bell-kevin/clickCounter/blob/main/not%20all%20the%20files%20are%20here/react.PNG)
