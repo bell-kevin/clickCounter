@@ -1,7 +1,5 @@
 # Click Counter
 
-https://piped.hostux.net/watch?v=ABQLwlE8MUA
-
 In the tutorial you just watched, you created a button and counted the clicks on that button. In this project, you will create 2 buttons, one that increments a counter and one that decrements the same counter. The result looks like this:
 
 ![clickCounter.PNG](https://github.com/bell-kevin/clickCounter/blob/main/not%20all%20the%20files%20are%20here/react.PNG)
@@ -13,7 +11,7 @@ Submission: Take a screenshot of your running app, similar to the one above, wit
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
-proprietary, trade-secret system that is not Free and Open Souce Software
+proprietary, trade-secret system that is not Free and Open Source Software
 (FOSS).  We are deeply concerned about using a proprietary system like GitHub
 to develop our FOSS project. I have a [website](https://bellKevin.me) where the
 project contributors are actively discussing how we can move away from GitHub
